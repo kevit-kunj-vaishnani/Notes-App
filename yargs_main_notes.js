@@ -70,5 +70,3 @@ const savedata = function(notes1){
 module.exports = {
     addNotes , removeNotes
 }
-
-console.log('helo/ hi');
